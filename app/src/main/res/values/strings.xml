@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JNIDemo3</string>
+    <string name="add">相加</string>
+    <string name="sub">相减</string>
+    <string name="mul">相乘</string>
+    <string name="div">相除</string>
+
+
+</resources>
